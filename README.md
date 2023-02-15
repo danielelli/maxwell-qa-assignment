@@ -1,3 +1,5 @@
+![image-removebg-preview](https://user-images.githubusercontent.com/90986300/219173215-6af4fbc1-ff4f-47f8-99be-a36721dd08bf.png)
+
 # Maxwell QA Automation Code Exercise
 
 Requirements for this task:
