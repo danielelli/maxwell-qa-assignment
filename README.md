@@ -8,7 +8,7 @@ Using Selenium, Playwright, or any other open source automated testing framework
 
 #### Setup
 1. Clone this repository: `git clone https://github.com/danielelli/maxwell-qa-assignment.git`
-2. Go to the within the cloned repo, go to the test directory and run playwright test: <br>
+2. Go to within the cloned repo, go to the test directory and run playwright test: <br>
 `cd maxwell-qa-assignment && cd test && npx playwright test`
 
 #### Considerations for this assignments
