@@ -19,3 +19,7 @@ Using Selenium, Playwright, or any other open source automated testing framework
 
 https://user-images.githubusercontent.com/90986300/219134139-caa67d93-9095-4494-aeaa-0a3ed80ae0a1.mp4
 
+#### Summary
+In this coding assignment, besides setting up a small developer environment and installing the packages necessary to complete the project. It only took me an hour and a half to work through the two test case requirements given, read through the Playwright documentation, and create the functional test cases along with debugging and making sure my code was concise, commented, and typo-free.
+
+I enjoyed being able to learn Playwright and get hands-on experience with it for this coding assignment.
